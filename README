@@ -1,0 +1,39 @@
+This little binary will tell you if you have a Laptop or Desktop.
+It reads this value using the system-type in IOKit (IOPlatformExpertDevice).
+You can parse this value your self using the ioreg (-l) command but Its not
+formatted well, so I decided to make this as its a pretty common request.
+For instance I once had a school district that wanted to turn off wireless
+on all Desktops as they were having MYNAME(37) bonjour name conflict issues.
+
+There is a little example.command shell script to show you the two ways you
+would use this in your scripts. laptops are value 2 (exit 1) and Desktops are
+value 1 (exit 0). The exit values allow you to use standard logic built-in to
+run the command and use its exit value. Or if you think thats lame you can
+parse the text. To each there own but I like exit values
+
+Known Issues:
+As I recall this does not cover PowerPC machines, but I have not seen an intel
+that does not use this value. Maybe iPad 3 will be 3 ;)
+
+To Do:
+I will make a little installer for it as some point and put it in
+/usr/local/bin/system-type
+Could use some options as well such as controlling behaviour
+Maybe XML output, and put some other values?
+
+Replacement for:
+#!/bin/bash
+declare -x awk="/usr/bin/awk"
+declare -x ioreg="/usr/sbin/ioreg"
+# Intel and future systems test
+declare IOREG="$("$ioreg" -l |
+	"$awk" 'BEGIN {FS="[<>]"}
+	/.*\"system-type\".=./{
+	systype=$2
+	if ( systype == 1 )
+		{ print "D" ; exit 0 }
+	# System type 1 is a Desktop
+	else if ( systype == 2 )
+		{ print "L" ; exit 0 }
+	# System type 2 is a Laptop
+	}')"
