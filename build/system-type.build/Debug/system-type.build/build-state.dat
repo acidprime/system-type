@@ -1,0 +1,88 @@
+Tsystem-type
+v7
+r0
+t342475373.260221
+cCheck dependencies
+cCompileC build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/system-type/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/acid/Dropbox/code/system-type/build/Debug/system-type normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8E65FE000000000060E710
+t1317955070
+s6350608
+
+N/Users/acid/Dropbox/code/system-type/build/Debug/system-type
+t2
+s0
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o
+t1320782516
+s5444
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/system-type.LinkFileList
+c000000004EB98A200000000000000072
+t1320782368
+s114
+
+N/Users/acid/Dropbox/code/system-type/main.c
+c000000004EB98AB30000000000000209
+t1320782515
+s521
+i<CoreFoundation/CoreFoundation.h>
+i<IOKit/IOKitLib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342475372#342475372#0(0"0(0#1#0"4508947776#0"0#
+
+CCompileC build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/system-type/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s342475315.871912
+e342475316.124586
+r1
+xCompileC
+xbuild/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o
+x/Users/acid/Dropbox/code/system-type/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/acid/Dropbox/code/system-type/main.c342475315#342475316#0(0"0(0#0#43"/Users/acid/Dropbox/code/system-type/main.c4517437072#1320"    cd /Users/acid/Dropbox/code/system-type    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/system-type-generated-files.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/system-type-own-target-headers.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/system-type-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/system-type-project-headers.hmap -F/Users/acid/Dropbox/code/system-type/build/Debug -I/Users/acid/Dropbox/code/system-type/build/Debug/include -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/DerivedSources/x86_64 -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/DerivedSources -c /Users/acid/Dropbox/code/system-type/main.c -o /Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/acid/Dropbox/code/system-type/build/Debug/system-type normal x86_64
+s342475372.882641
+e342475373.259926
+r0
+xLd
+x/Users/acid/Dropbox/code/system-type/build/Debug/system-type
+xnormal
+xx86_64
+oUndefined symbols:
+o  "_IOObjectRelease", referenced from:
+o      _main in main.o
+o  "_IOServiceGetMatchingService", referenced from:
+o      _main in main.o
+o  "_IOServiceMatching", referenced from:
+o      _main in main.o
+o  "_IORegistryEntryCreateCFProperty", referenced from:
+o      _main in main.o
+o  "_kIOMasterPortDefault", referenced from:
+o      _main in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@65"Link /Users/acid/Dropbox/code/system-type/build/Debug/system-type342475372#342475373#0(419"Undefined symbols:  "_IOObjectRelease", referenced from:      _main in main.o  "_IOServiceGetMatchingService", referenced from:      _main in main.o  "_IOServiceMatching", referenced from:      _main in main.o  "_IORegistryEntryCreateCFProperty", referenced from:      _main in main.o  "_kIOMasterPortDefault", referenced from:      _main in main.old: symbol(s) not foundcollect2: ld returned 1 exit status12(4@36""_IOObjectRelease", referenced from:342475373#19#39#0(6@0"342475373#0#0#0#0#0"0(13@15"_main in main.o342475373#58#22#0(6@0"342475373#0#0#0#0#0"0(4@48""_IOServiceGetMatchingService", referenced from:342475373#80#51#0(6@0"342475373#0#0#0#0#0"0(13@15"_main in main.o342475373#131#22#0(6@0"342475373#0#0#0#0#0"0(4@38""_IOServiceMatching", referenced from:342475373#153#41#0(6@0"342475373#0#0#0#0#0"0(13@15"_main in main.o342475373#194#22#0(6@0"342475373#0#0#0#0#0"0(4@52""_IORegistryEntryCreateCFProperty", referenced from:342475373#216#55#0(6@0"342475373#0#0#0#0#0"0(13@15"_main in main.o342475373#271#22#0(6@0"342475373#0#0#0#0#0"0(4@41""_kIOMasterPortDefault", referenced from:342475373#293#44#0(6@0"342475373#0#0#0#0#0"0(13@15"_main in main.o342475373#337#22#0(6@0"342475373#0#0#0#0#0"0(13@19"Symbol(s) not found342475373#359#24#0(6@0"342475373#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status342475373#383#36#0(6@0"342475373#0#0#0#0#0"0(0#0#0"4508946064#530"    cd /Users/acid/Dropbox/code/system-type    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/acid/Dropbox/code/system-type/build/Debug -F/Users/acid/Dropbox/code/system-type/build/Debug -filelist /Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/system-type.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -o /Users/acid/Dropbox/code/system-type/build/Debug/system-type1#
+

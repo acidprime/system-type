@@ -1,0 +1,61 @@
+Tsystem-type
+v7
+r0
+t342475168.533159
+cCheck dependencies
+cCompileC build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/system-type/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8E65FE000000000060E710
+t1317955070
+s6350608
+
+N/Users/acid/Dropbox/code/system-type/build/Debug/system-type
+t2
+s0
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/system-type.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/acid/Dropbox/code/system-type/main.c
+c000000004EB98A1F000000000000024B
+t1320782367
+s587
+i<CoreFoundation/CoreFoundation.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342475168#342475168#0(0"0(0#1#0"17214062848#0"0#
+
+CCompileC build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/system-type/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s342475168.285372
+e342475168.533002
+r0
+xCompileC
+xbuild/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o
+x/Users/acid/Dropbox/code/system-type/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/acid/Dropbox/code/system-type/main.c342475168#342475168#0(1500"/Users/acid/Dropbox/code/system-type/main.c: In function 'main':/Users/acid/Dropbox/code/system-type/main.c:6: error: 'io_service_t' undeclared (first use in this function)/Users/acid/Dropbox/code/system-type/main.c:6: error: (Each undeclared identifier is reported only once/Users/acid/Dropbox/code/system-type/main.c:6: error: for each function it appears in.)/Users/acid/Dropbox/code/system-type/main.c:6: error: expected ';' before 'platformExpert'/Users/acid/Dropbox/code/system-type/main.c:8: error: 'platformExpert' undeclared (first use in this function)/Users/acid/Dropbox/code/system-type/main.c:10: warning: implicit declaration of function 'IORegistryEntryCreateCFProperty'/Users/acid/Dropbox/code/system-type/main.c:10: error: expected ')' before 'kIOPlatformUUIDKey'/Users/acid/Dropbox/code/system-type/main.c:10: warning: assignment makes pointer from integer without a cast/Users/acid/Dropbox/code/system-type/main.c:13: warning: implicit declaration of function 'IOObjectRelease'/Users/acid/Dropbox/code/system-type/main.c:15: error: 'NSString' undeclared (first use in this function)/Users/acid/Dropbox/code/system-type/main.c:15: error: 'serial' undeclared (first use in this function)/Users/acid/Dropbox/code/system-type/main.c:15: error: expected expression before '[' token/Users/acid/Dropbox/code/system-type/main.c:15: error: expected ']' before 'initWithFormat'/Users/acid/Dropbox/code/system-type/main.c:16: error: expected ')' before 'serialNumberAsCFString'12(4@54"'io_service_t' undeclared (first use in this function)342475168#65#109#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#6#0#6#0#43"'*' undeclared (first use in this function)0(4@36"Expected ';' before 'platformExpert'342475168#366#91#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#6#0#6#0#19"expected * before *0(4@56"'platformExpert' undeclared (first use in this function)342475168#457#111#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#8#0#8#0#43"'*' undeclared (first use in this function)0(22@66"Implicit declaration of function 'IORegistryEntryCreateCFProperty'342475168#568#124#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#10#0#10#0#36"implicit declaration of function '*'0(4@40"Expected ')' before 'kIOPlatformUUIDKey'342475168#692#96#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#10#0#10#0#19"expected * before *0(22@52"Assignment makes pointer from integer without a cast342475168#788#110#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#10#0#10#0#0"0(22@50"Implicit declaration of function 'IOObjectRelease'342475168#898#108#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#13#0#13#0#36"implicit declaration of function '*'0(4@50"'NSString' undeclared (first use in this function)342475168#1006#106#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#15#0#15#0#43"'*' undeclared (first use in this function)0(4@48"'serial' undeclared (first use in this function)342475168#1112#104#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#15#0#15#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '[' token342475168#1216#92#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#15#0#15#0#19"expected * before *0(4@36"Expected ']' before 'initWithFormat'342475168#1308#92#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#15#0#15#0#19"expected * before *0(4@44"Expected ')' before 'serialNumberAsCFString'342475168#1400#100#0(6@43"/Users/acid/Dropbox/code/system-type/main.c342475167#16#0#16#0#19"expected * before *0(0#0#43"/Users/acid/Dropbox/code/system-type/main.c17222400768#1320"    cd /Users/acid/Dropbox/code/system-type    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/system-type-generated-files.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/system-type-own-target-headers.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/system-type-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/system-type-project-headers.hmap -F/Users/acid/Dropbox/code/system-type/build/Debug -I/Users/acid/Dropbox/code/system-type/build/Debug/include -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/DerivedSources/x86_64 -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/DerivedSources -c /Users/acid/Dropbox/code/system-type/main.c -o /Users/acid/Dropbox/code/system-type/build/system-type.build/Debug/system-type.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/acid/Dropbox/code/system-type/build/Debug/system-type normal x86_64
+r0
+

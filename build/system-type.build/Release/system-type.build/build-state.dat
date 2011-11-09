@@ -1,0 +1,200 @@
+Tsystem-type
+v7
+r0
+t342488490.984949
+cCheck dependencies
+cCompileC build/system-type.build/Release/system-type.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/system-type/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type normal x86_64
+cCompileC build/system-type.build/Release/system-type.build/Objects-normal/i386/main.o /Users/acid/Dropbox/code/system-type/main.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type normal i386
+cCompileC build/system-type.build/Release/system-type.build/Objects-normal/ppc/main.o /Users/acid/Dropbox/code/system-type/main.c normal ppc c com.apple.compilers.gcc.4_2
+cLd /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type normal ppc
+cCreateUniversalBinary /Users/acid/Dropbox/code/system-type/build/Release/system-type normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/acid/Dropbox/code/system-type/build/Release/system-type.dSYM /Users/acid/Dropbox/code/system-type/build/Release/system-type
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/network/IOEthernetController.h
+c000000004C239B980000000000005A38
+t1277402008
+s23096
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/network/IOEthernetInterface.h
+c000000004C239B98000000000000380F
+t1277402008
+s14351
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/network/IONetworkInterface.h
+c000000004C239B98000000000000B90A
+t1277402008
+s47370
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8E65FE000000000060E710
+t1317955070
+s6350608
+
+N/Users/acid/Dropbox/code/system-type/build/Release/system-type
+t1320794219
+s37928
+
+N/Users/acid/Dropbox/code/system-type/build/Release/system-type.dSYM
+t1320794219
+s102
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/main.o
+t1320794219
+s5688
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type
+t1320794219
+s9552
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type.LinkFileList
+c000000004EB9B63E0000000000000072
+t1320793662
+s114
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/main.o
+t1320794219
+s5936
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type
+t1320794219
+s9256
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type.LinkFileList
+c000000004EB9B63E0000000000000071
+t1320793662
+s113
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/main.o
+t1320794216
+s6416
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type
+t1320794217
+s9680
+
+N/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type.LinkFileList
+c000000004EB9B63E0000000000000074
+t1320793662
+s116
+
+N/Users/acid/Dropbox/code/system-type/main.c
+c000000004EB9B86700000000000002C8
+t1320794215
+s712
+i<CoreFoundation/CoreFoundation.h>
+i<IOKit/IOKitLib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342488490#342488491#0(0"0(0#1#0"4444771648#0"0#
+
+CCompileC build/system-type.build/Release/system-type.build/Objects-normal/i386/main.o /Users/acid/Dropbox/code/system-type/main.c normal i386 c com.apple.compilers.gcc.4_2
+s342487017.482076
+e342487019.094658
+r1
+xCompileC
+xbuild/system-type.build/Release/system-type.build/Objects-normal/i386/main.o
+x/Users/acid/Dropbox/code/system-type/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/acid/Dropbox/code/system-type/main.c342487017#342487019#0(0"0(0#0#43"/Users/acid/Dropbox/code/system-type/main.c4513128080#1350"    cd /Users/acid/Dropbox/code/system-type    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-generated-files.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-own-target-headers.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-project-headers.hmap -F/Users/acid/Dropbox/code/system-type/build/Release -I/Users/acid/Dropbox/code/system-type/build/Release/include -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/DerivedSources/i386 -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/DerivedSources -c /Users/acid/Dropbox/code/system-type/main.c -o /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/main.o0#
+
+CCompileC build/system-type.build/Release/system-type.build/Objects-normal/ppc/main.o /Users/acid/Dropbox/code/system-type/main.c normal ppc c com.apple.compilers.gcc.4_2
+s342487017.816140
+e342487019.233200
+r1
+xCompileC
+xbuild/system-type.build/Release/system-type.build/Objects-normal/ppc/main.o
+x/Users/acid/Dropbox/code/system-type/main.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/acid/Dropbox/code/system-type/main.c342487017#342487019#0(0"0(0#0#43"/Users/acid/Dropbox/code/system-type/main.c4513128080#1357"    cd /Users/acid/Dropbox/code/system-type    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-generated-files.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-own-target-headers.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-project-headers.hmap -F/Users/acid/Dropbox/code/system-type/build/Release -I/Users/acid/Dropbox/code/system-type/build/Release/include -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/DerivedSources/ppc -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/DerivedSources -c /Users/acid/Dropbox/code/system-type/main.c -o /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/system-type.build/Release/system-type.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/system-type/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s342487017.476308
+e342487017.479552
+r1
+xCompileC
+xbuild/system-type.build/Release/system-type.build/Objects-normal/x86_64/main.o
+x/Users/acid/Dropbox/code/system-type/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/acid/Dropbox/code/system-type/main.c342487017#342487018#0(0"0(0#0#43"/Users/acid/Dropbox/code/system-type/main.c4513128080#1356"    cd /Users/acid/Dropbox/code/system-type    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-generated-files.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-own-target-headers.hmap -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/system-type-project-headers.hmap -F/Users/acid/Dropbox/code/system-type/build/Release -I/Users/acid/Dropbox/code/system-type/build/Release/include -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/DerivedSources/x86_64 -I/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/DerivedSources -c /Users/acid/Dropbox/code/system-type/main.c -o /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/main.o0#
+
+CCreateUniversalBinary /Users/acid/Dropbox/code/system-type/build/Release/system-type normal "x86_64 i386 ppc"
+s342487019.360755
+e342487019.385330
+r1
+xCreateUniversalBinary
+x/Users/acid/Dropbox/code/system-type/build/Release/system-type
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@72"CreateUniversalBinary build/Release/system-type normal "x86_64 i386 ppc"342487019#342487019#0(0"0(0#0#52"/Users/acid/Dropbox/code/system-type/x86_64 i386 ppc4513128080#499"    cd /Users/acid/Dropbox/code/system-type    /usr/bin/lipo -create /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type -output /Users/acid/Dropbox/code/system-type/build/Release/system-type0#
+
+CGenerateDSYMFile /Users/acid/Dropbox/code/system-type/build/Release/system-type.dSYM /Users/acid/Dropbox/code/system-type/build/Release/system-type
+s342487019.388822
+e342487019.445537
+r1
+xGenerateDSYMFile
+x/Users/acid/Dropbox/code/system-type/build/Release/system-type.dSYM
+x/Users/acid/Dropbox/code/system-type/build/Release/system-type
+lSLF07#2@73"GenerateDSYMFile build/Release/system-type.dSYM build/Release/system-type342487019#342487019#0(0"0(0#0#62"/Users/acid/Dropbox/code/system-type/build/Release/system-type4513128080#210"    cd /Users/acid/Dropbox/code/system-type    /Developer/usr/bin/dsymutil /Users/acid/Dropbox/code/system-type/build/Release/system-type -o /Users/acid/Dropbox/code/system-type/build/Release/system-type.dSYM0#
+
+CLd /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type normal i386
+s342487019.094844
+e342487019.172784
+r1
+xLd
+x/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type
+xnormal
+xi386
+lSLF07#2@123"Link /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type342487019#342487019#0(0"0(0#0#0"4513128080#607"    cd /Users/acid/Dropbox/code/system-type    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/acid/Dropbox/code/system-type/build/Release -F/Users/acid/Dropbox/code/system-type/build/Release -filelist /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -o /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type0#
+
+CLd /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type normal ppc
+s342487019.235987
+e342487019.348223
+r1
+xLd
+x/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type
+xnormal
+xppc
+lSLF07#2@122"Link /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type342487019#342487019#0(0"0(0#0#0"4513128080#604"    cd /Users/acid/Dropbox/code/system-type    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/acid/Dropbox/code/system-type/build/Release -F/Users/acid/Dropbox/code/system-type/build/Release -filelist /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -o /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type0#
+
+CLd /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type normal x86_64
+s342487017.479662
+e342487017.815909
+r1
+xLd
+x/Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type
+xnormal
+xx86_64
+lSLF07#2@125"Link /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type342487017#342487018#0(0"0(0#0#0"4513128080#613"    cd /Users/acid/Dropbox/code/system-type    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/acid/Dropbox/code/system-type/build/Release -F/Users/acid/Dropbox/code/system-type/build/Release -filelist /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -o /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type0#
+

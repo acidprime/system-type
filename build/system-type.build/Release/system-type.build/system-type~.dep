@@ -1,0 +1,8 @@
+00000000000000000000000000000000 25349c38e0f308d710409d7c8aeef3b3 ffffffffffffffffffffffffffffffff 102 /Users/acid/Dropbox/code/system-type/build/Release/system-type.dSYM
+84661043c0da46ecddd85d26f782c9c0 307553aa5413d0e2b6fa8bc040464175 ffffffffffffffffffffffffffffffff 37928 /Users/acid/Dropbox/code/system-type/build/Release/system-type
+a55de5dbbfebd76dabd72c4c75ec387b c2bb45a2bcd9f626e65286d132a773db ffffffffffffffffffffffffffffffff 9256 /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/system-type
+8ccf4afe22c8a63c0bb79357bd0a6328 bc4440e57cabe55adec3bd583e169359 ffffffffffffffffffffffffffffffff 9552 /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/system-type
+feb932fe50816d0f1bfa4186cc713550 2db288dfcd0a49ce5ed39832ffa44741 ffffffffffffffffffffffffffffffff 9680 /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/system-type
+000000004eb98b950000000000012879 a55de5dbbfdc3908abd72c4c758e39c8 ffffffffffffffffffffffffffffffff 5928 /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/ppc/main.o
+000000004eb98b950000000000012879 8ccf4afe22ff48590bb79357bd68629b ffffffffffffffffffffffffffffffff 5688 /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/i386/main.o
+000000004eb98b950000000000012879 feb932fe50b6836a1bfa4186cc1334e3 ffffffffffffffffffffffffffffffff 6416 /Users/acid/Dropbox/code/system-type/build/system-type.build/Release/system-type.build/Objects-normal/x86_64/main.o
