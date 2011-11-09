@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash -x
 
 # example.sh
 # system-type
@@ -33,10 +33,10 @@ elif [ $SYSTEM_TYPE == 2 ] ; then
 fi
 
 # Alternative implementation using the exit code
-declare -x THIS_MACHINE_IS_DESKTOP="$command"
+declare -x THIS_MACHINE_IS_A_DESKTOP="$command"
 
 # Suppressing the output as all we want is the exit
-if "$THIS_MACHINE_IS_A_DESKTOP" &>/dev/null ; then
+if [ "$?" -eq 0 ] ; then
 	echo "The exit code was 0 for ($command)"
 	# do stuff
 else
