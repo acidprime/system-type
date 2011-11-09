@@ -16,7 +16,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					852,
+					717,
 					20,
 					48.16259765625,
 					43,
@@ -100,6 +100,9 @@
 			E108299C1469FC95004465EF /* PBXTextBookmark */ = E108299C1469FC95004465EF /* PBXTextBookmark */;
 			E108299D1469FCA5004465EF /* PBXTextBookmark */ = E108299D1469FCA5004465EF /* PBXTextBookmark */;
 			E108299E1469FD36004465EF /* PBXTextBookmark */ = E108299E1469FD36004465EF /* PBXTextBookmark */;
+			E10829A11469FF9B004465EF /* PBXTextBookmark */ = E10829A11469FF9B004465EF /* PBXTextBookmark */;
+			E10829A21469FF9B004465EF /* PBXTextBookmark */ = E10829A21469FF9B004465EF /* PBXTextBookmark */;
+			E10829A31469FF9B004465EF /* PBXTextBookmark */ = E10829A31469FF9B004465EF /* PBXTextBookmark */;
 		};
 		sourceControlManager = E10827821469C13E004465EF /* Source Control */;
 		userBuildSettings = {
@@ -107,7 +110,7 @@
 	};
 	08FB7796FE84155DC02AAC07 /* main.c */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1030, 507}}";
+			sepNavIntBoundsRect = "{{0, 0}, {895, 362}}";
 			sepNavSelRange = "{714, 0}";
 			sepNavVisRange = "{0, 714}";
 		};
@@ -352,9 +355,9 @@
 	};
 	E108295F1469EED8004465EF /* example.command */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1030, 598}}";
-			sepNavSelRange = "{11, 0}";
-			sepNavVisRange = "{0, 895}";
+			sepNavIntBoundsRect = "{{0, 0}, {895, 598}}";
+			sepNavSelRange = "{787, 0}";
+			sepNavVisRange = "{369, 573}";
 		};
 	};
 	E10829631469F10E004465EF /* PBXTextBookmark */ = {
@@ -372,7 +375,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.sh: 31";
 		rLen = 0;
-		rLoc = 877;
+		rLoc = 778;
 		rType = 0;
 		vrLen = 830;
 		vrLoc = 0;
@@ -382,7 +385,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.sh: 31";
 		rLen = 0;
-		rLoc = 877;
+		rLoc = 778;
 		rType = 0;
 		vrLen = 830;
 		vrLoc = 0;
@@ -432,7 +435,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.sh: 44";
 		rLen = 0;
-		rLoc = 1043;
+		rLoc = 942;
 		rType = 0;
 		vrLen = 973;
 		vrLoc = 40;
@@ -522,7 +525,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 41";
 		rLen = 0;
-		rLoc = 1000;
+		rLoc = 899;
 		rType = 0;
 		vrLen = 873;
 		vrLoc = 76;
@@ -532,7 +535,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 41";
 		rLen = 0;
-		rLoc = 1000;
+		rLoc = 899;
 		rType = 0;
 		vrLen = 873;
 		vrLoc = 76;
@@ -542,7 +545,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 42";
 		rLen = 0;
-		rLoc = 980;
+		rLoc = 879;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 76;
@@ -552,7 +555,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 42";
 		rLen = 0;
-		rLoc = 980;
+		rLoc = 879;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 76;
@@ -572,7 +575,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 995;
+		rLoc = 894;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -582,7 +585,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 995;
+		rLoc = 894;
 		rType = 0;
 		vrLen = 971;
 		vrLoc = 76;
@@ -592,7 +595,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 45";
 		rLen = 0;
-		rLoc = 1022;
+		rLoc = 921;
 		rType = 0;
 		vrLen = 991;
 		vrLoc = 76;
@@ -602,7 +605,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 994;
+		rLoc = 893;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -612,7 +615,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 994;
+		rLoc = 893;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -622,7 +625,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 994;
+		rLoc = 893;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -652,7 +655,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 994;
+		rLoc = 893;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -672,7 +675,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 36";
 		rLen = 0;
-		rLoc = 805;
+		rLoc = 720;
 		rType = 0;
 		vrLen = 946;
 		vrLoc = 126;
@@ -682,7 +685,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 887;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 946;
 		vrLoc = 126;
@@ -692,7 +695,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 887;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 944;
 		vrLoc = 126;
@@ -702,7 +705,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 887;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 944;
 		vrLoc = 126;
@@ -712,7 +715,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 887;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 934;
 		vrLoc = 126;
@@ -722,7 +725,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 878;
+		rLoc = 785;
 		rType = 0;
 		vrLen = 910;
 		vrLoc = 126;
@@ -732,7 +735,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 887;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 916;
 		vrLoc = 126;
@@ -742,7 +745,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 887;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 916;
 		vrLoc = 126;
@@ -752,7 +755,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 887;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 919;
 		vrLoc = 126;
@@ -762,7 +765,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 886;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 920;
 		vrLoc = 126;
@@ -772,7 +775,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 40";
 		rLen = 0;
-		rLoc = 911;
+		rLoc = 810;
 		rType = 0;
 		vrLen = 920;
 		vrLoc = 126;
@@ -782,7 +785,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 40";
 		rLen = 0;
-		rLoc = 911;
+		rLoc = 810;
 		rType = 0;
 		vrLen = 920;
 		vrLoc = 126;
@@ -796,5 +799,35 @@
 		rType = 0;
 		vrLen = 895;
 		vrLoc = 0;
+	};
+	E10829A11469FF9B004465EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 24";
+		rLen = 0;
+		rLoc = 714;
+		rType = 0;
+		vrLen = 714;
+		vrLoc = 0;
+	};
+	E10829A21469FF9B004465EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E108295F1469EED8004465EF /* example.command */;
+		name = "example.command: 37";
+		rLen = 0;
+		rLoc = 787;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 369;
+	};
+	E10829A31469FF9B004465EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E108295F1469EED8004465EF /* example.command */;
+		name = "example.command: 37";
+		rLen = 0;
+		rLoc = 787;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 369;
 	};
 }

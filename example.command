@@ -32,11 +32,9 @@ elif [ $SYSTEM_TYPE == 2 ] ; then
 	# do stuff
 fi
 
-# Alternative implementation using the exit code
-declare -x THIS_MACHINE_IS_A_DESKTOP="$command"
 
 # Suppressing the output as all we want is the exit
-if [ "$?" -eq 0 ] ; then
+if "$command" ; then
 	echo "The exit code was 0 for ($command)"
 	# do stuff
 else
