@@ -34,7 +34,7 @@ fi
 
 
 # Suppressing the output as all we want is the exit
-if "$command" ; then
+if "$command" &>/dev/null; then
 	echo "The exit code was 0 for ($command)"
 	# do stuff
 else

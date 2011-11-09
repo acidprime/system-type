@@ -103,6 +103,9 @@
 			E10829A11469FF9B004465EF /* PBXTextBookmark */ = E10829A11469FF9B004465EF /* PBXTextBookmark */;
 			E10829A21469FF9B004465EF /* PBXTextBookmark */ = E10829A21469FF9B004465EF /* PBXTextBookmark */;
 			E10829A31469FF9B004465EF /* PBXTextBookmark */ = E10829A31469FF9B004465EF /* PBXTextBookmark */;
+			E10829A5146A0023004465EF /* PBXTextBookmark */ = E10829A5146A0023004465EF /* PBXTextBookmark */;
+			E10829A7146A0029004465EF /* PBXTextBookmark */ = E10829A7146A0029004465EF /* PBXTextBookmark */;
+			E10829A8146A0029004465EF /* PBXTextBookmark */ = E10829A8146A0029004465EF /* PBXTextBookmark */;
 		};
 		sourceControlManager = E10827821469C13E004465EF /* Source Control */;
 		userBuildSettings = {
@@ -356,8 +359,8 @@
 	E108295F1469EED8004465EF /* example.command */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {895, 598}}";
-			sepNavSelRange = "{787, 0}";
-			sepNavVisRange = "{369, 573}";
+			sepNavSelRange = "{798, 0}";
+			sepNavVisRange = "{369, 584}";
 		};
 	};
 	E10829631469F10E004465EF /* PBXTextBookmark */ = {
@@ -435,7 +438,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.sh: 44";
 		rLen = 0;
-		rLoc = 942;
+		rLoc = 953;
 		rType = 0;
 		vrLen = 973;
 		vrLoc = 40;
@@ -525,7 +528,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 41";
 		rLen = 0;
-		rLoc = 899;
+		rLoc = 910;
 		rType = 0;
 		vrLen = 873;
 		vrLoc = 76;
@@ -535,7 +538,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 41";
 		rLen = 0;
-		rLoc = 899;
+		rLoc = 910;
 		rType = 0;
 		vrLen = 873;
 		vrLoc = 76;
@@ -545,7 +548,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 42";
 		rLen = 0;
-		rLoc = 879;
+		rLoc = 890;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 76;
@@ -555,7 +558,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 42";
 		rLen = 0;
-		rLoc = 879;
+		rLoc = 890;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 76;
@@ -575,7 +578,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 894;
+		rLoc = 905;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -585,7 +588,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 894;
+		rLoc = 905;
 		rType = 0;
 		vrLen = 971;
 		vrLoc = 76;
@@ -595,7 +598,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 45";
 		rLen = 0;
-		rLoc = 921;
+		rLoc = 932;
 		rType = 0;
 		vrLen = 991;
 		vrLoc = 76;
@@ -605,7 +608,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 893;
+		rLoc = 904;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -615,7 +618,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 893;
+		rLoc = 904;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -625,7 +628,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 893;
+		rLoc = 904;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -655,7 +658,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 43";
 		rLen = 0;
-		rLoc = 893;
+		rLoc = 904;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 76;
@@ -685,7 +688,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 946;
 		vrLoc = 126;
@@ -695,7 +698,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 944;
 		vrLoc = 126;
@@ -705,7 +708,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 944;
 		vrLoc = 126;
@@ -715,7 +718,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 934;
 		vrLoc = 126;
@@ -735,7 +738,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 916;
 		vrLoc = 126;
@@ -745,7 +748,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 916;
 		vrLoc = 126;
@@ -755,7 +758,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 919;
 		vrLoc = 126;
@@ -765,7 +768,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 39";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 920;
 		vrLoc = 126;
@@ -775,7 +778,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 40";
 		rLen = 0;
-		rLoc = 810;
+		rLoc = 821;
 		rType = 0;
 		vrLen = 920;
 		vrLoc = 126;
@@ -785,7 +788,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 40";
 		rLen = 0;
-		rLoc = 810;
+		rLoc = 821;
 		rType = 0;
 		vrLen = 920;
 		vrLoc = 126;
@@ -815,7 +818,7 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 37";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 573;
 		vrLoc = 369;
@@ -825,9 +828,39 @@
 		fRef = E108295F1469EED8004465EF /* example.command */;
 		name = "example.command: 37";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 798;
 		rType = 0;
 		vrLen = 573;
+		vrLoc = 369;
+	};
+	E10829A5146A0023004465EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E108295F1469EED8004465EF /* example.command */;
+		name = "example.command: 37";
+		rLen = 0;
+		rLoc = 798;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 369;
+	};
+	E10829A7146A0029004465EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E108295F1469EED8004465EF /* example.command */;
+		name = "example.command: 37";
+		rLen = 0;
+		rLoc = 798;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 369;
+	};
+	E10829A8146A0029004465EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E108295F1469EED8004465EF /* example.command */;
+		name = "example.command: 37";
+		rLen = 0;
+		rLoc = 798;
+		rType = 0;
+		vrLen = 584;
 		vrLoc = 369;
 	};
 }
