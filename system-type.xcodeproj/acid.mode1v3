@@ -272,8 +272,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
-									<integer>2</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -297,7 +296,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>344 193 1299 671 0 0 1440 878 </string>
+						<string>270 207 1299 671 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -315,7 +314,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>main.c</string>
+								<string>example.command</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -323,15 +322,15 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>main.c</string>
+										<string>example.command</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>E108298E1469F73C004465EF</string>
+										<string>E108299E1469FD36004465EF</string>
 										<key>history</key>
 										<array>
-											<string>E108298D1469F73C004465EF</string>
-											<string>E10829631469F10E004465EF</string>
+											<string>E108298F1469FB9B004465EF</string>
+											<string>E10829901469FB9B004465EF</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -345,7 +344,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1091, 547}}</string>
 								<key>RubberWindowFrame</key>
-								<string>344 193 1299 671 0 0 1440 878 </string>
+								<string>270 207 1299 671 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -365,7 +364,7 @@
 								<key>Frame</key>
 								<string>{{0, 552}, {1091, 78}}</string>
 								<key>RubberWindowFrame</key>
-								<string>344 193 1299 671 0 0 1440 878 </string>
+								<string>270 207 1299 671 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -538,7 +537,7 @@
 		<string>/Users/acid/Dropbox/code/system-type/system-type.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>344 193 1299 671 0 0 1440 878 </string>
+	<string>270 207 1299 671 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
